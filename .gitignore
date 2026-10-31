@@ -1,0 +1,12 @@
+# 私钥与打包产物 —— 严禁提交
+*.pem
+*.crx
+*.zip
+dist/
+
+# 系统与开发文件
+__pycache__/
+*.py
+preview.html
+.DS_Store
+Thumbs.db
