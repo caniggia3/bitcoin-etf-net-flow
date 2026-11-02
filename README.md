@@ -4,6 +4,8 @@
 
 ![Bitcoin ETF Net Flow](screenshots/etf-promo-marquee-1400x560.png)
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-安装-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/bitcoin-etf-net-flow-trac/pbbigenohbldalaboklkkcpjgknelogn)
+
 ## ✨ 功能特性
 
 - **📊 实时净流向**：每日比特币 ETF 净流入 / 净流出金额，弹窗即点即看
@@ -22,7 +24,13 @@
 
 ## 🔧 安装方式
 
-### 方式一：加载源码（推荐）
+### 方式一：Chrome 应用商店（推荐）
+
+👉 [**点击前往 Chrome 应用商店安装**](https://chromewebstore.google.com/detail/bitcoin-etf-net-flow-trac/pbbigenohbldalaboklkkcpjgknelogn)
+
+安装后自动更新，无需手动维护。
+
+### 方式二：加载源码
 
 1. 下载或克隆本仓库：
    ```bash
@@ -33,7 +41,7 @@
 4. 点击「**加载已解压的扩展程序**」，选择本仓库文件夹
 5. 工具栏出现图标，即安装完成
 
-### 方式二：Release 附件
+### 方式三：Release 附件
 
 前往 [Releases](https://github.com/caniggia3/bitcoin-etf-net-flow/releases) 页面下载 `.crx` 文件。
 > ⚠️ 注意：Windows 版 Chrome 出于安全策略**不支持直接拖拽安装 .crx**，该文件仅作存档分发用途，日常安装请使用方式一。
